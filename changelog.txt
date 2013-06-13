@@ -166,7 +166,30 @@ TODO
 	custom portraits for main leaders
 	removed quick trait from dwarf (one of the biggest unbalances left)
 
+1.1.0
+ :4th scenario
+	hopefully fixed gold bonus
+	scatered some hills
+ :5th scenario
+	changed recruit
+	improved gameplay
+	fixed several bugs
+ :orcish woodcutters
+	give impact and fire weakness
+	added pierce armour
+
+ :editor
+	added custom units
+
+1.1.1
+ :4th and 5th scenario
+	bugfix
+ :7th and 9th scenario
+	removed unstore unit in flavor of modify_unit
+
 BUGS
+ : some engine ones ;(
+ (especially AI)
 
 TODO
 : campaign is stable
