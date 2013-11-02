@@ -227,8 +227,12 @@ TODO
  : removed some more store_unit
  : balancing & testing
 
+1.3.2
+ : added gold carryover notes
+ : reduced number of bats and Horseman in second scenario
+
 BUGS
 
 TODO
 
------------------------------------------ trewe / sjrs456 at yahoo dot fr---------------------------------------------
+----------------------------------------- trewe £ sjrs456 at yahoo dot fr ---------------------------------------------
