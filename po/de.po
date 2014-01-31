@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-01-28 14:31+0000\n"
+"POT-Creation-Date: 2014-01-31 15:05+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: trewe <sjrs456@yahoo.fr>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Poedit 1.5.4\n"
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-#: Return_from_Captivity/_main.cfg:30
+#: Return_from_Captivity/_main.cfg:28
 msgid "RfC"
 msgstr "RfC"
 
@@ -21,7 +21,7 @@ msgstr "RfC"
 # File: Return_from_Captivity/_main.cfg, line: 28
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
 #. [editor_group]: id=rfc
-#: Return_from_Captivity/_main.cfg:31 Return_from_Captivity/_main.cfg:94
+#: Return_from_Captivity/_main.cfg:29 Return_from_Captivity/_main.cfg:92
 msgid "Return from Captivity"
 msgstr "Rückkehr aus der Gefangenschaft"
 
@@ -48,7 +48,7 @@ msgstr "Rückkehr aus der Gefangenschaft"
 # File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 8
 # File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 12
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-#: Return_from_Captivity/_main.cfg:32
+#: Return_from_Captivity/_main.cfg:30
 msgid ""
 "A multiplayer campaign for 2 cooperative players. Bring home the elves and "
 "dwarves from the troll prison.\n"
@@ -58,32 +58,32 @@ msgstr ""
 "Zwerge aus dem Troll Gefängnis Heim.\n"
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-#: Return_from_Captivity/_main.cfg:34
+#: Return_from_Captivity/_main.cfg:32
 msgid "(Expert level, 11 scenarios)"
 msgstr "(Einstufung: Schwierig, 11 Szenarien)"
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-#: Return_from_Captivity/_main.cfg:37
-msgid "Lord"
-msgstr "Fürst"
-
-#. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-#: Return_from_Captivity/_main.cfg:37
+#: Return_from_Captivity/_main.cfg:35
 msgid "(Normal)"
 msgstr "(Normal)"
 
+#. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
+#: Return_from_Captivity/_main.cfg:35
+msgid "Lord"
+msgstr "Fürst"
+
 #. [about]
-#: Return_from_Captivity/_main.cfg:43
+#: Return_from_Captivity/_main.cfg:41
 msgid "Creator and Original Designer"
 msgstr "Autor und Designer"
 
 #. [entry]
-#: Return_from_Captivity/_main.cfg:45
+#: Return_from_Captivity/_main.cfg:43
 msgid "Csab"
 msgstr "Csab"
 
 #. [about]
-#: Return_from_Captivity/_main.cfg:49
+#: Return_from_Captivity/_main.cfg:47
 msgid "Campaign Maintenance"
 msgstr "Kampagnenbetreuung"
 
@@ -439,7 +439,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 301
 #. [objective]: condition=lose
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:464
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:489
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:490
 #: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:510
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:143
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:164
@@ -447,8 +447,8 @@ msgstr ""
 #: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:252
 #: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:551
 #: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:572
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:255
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:276
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:254
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:275
 #: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:363
 #: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:384
 #: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:432
@@ -509,7 +509,7 @@ msgstr "Tod von $Player1Name"
 # File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 305
 #. [objective]: condition=lose
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:468
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:493
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:494
 #: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:514
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:147
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:168
@@ -517,8 +517,8 @@ msgstr "Tod von $Player1Name"
 #: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:256
 #: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:555
 #: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:576
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:259
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:280
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:258
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:279
 #: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:367
 #: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:388
 #: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:436
@@ -675,11 +675,11 @@ msgstr "Die Gefangenen entkommen! Folgen ihnen und tötet sie alle!"
 # File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 178
 #. [message]: speaker=unit
 #: Return_from_Captivity/scenarios/01_The_Prison.cfg:715
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:834
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:763
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:424
 #: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:387
 #: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:710
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:335
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:334
 #: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:495
 #: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:609
 #: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:430
@@ -764,70 +764,19 @@ msgid "I've found a secret door!"
 msgstr "Ich habe eine Geheimtür gefunden!"
 
 #
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 289
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 305
-# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 196
-# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 213
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 214
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 230
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 335
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 351
-# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 209
-# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 226
+# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 158
+# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 160
 #. [objective]: condition=win
 #: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:484
 #: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:505
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:222
-#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:247
-msgid "Defeat all enemy leaders."
-msgstr "Besiegt alle gegnerischen Anführer"
-
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 356
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 404
-#. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:563
-msgid "This is a magic book! I wonder what it is about."
-msgstr "Dies ist ein magisches Buch! Was mag es nur in sich bringen?"
-
-#. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:567
-msgid "<small>Reading</small>"
-msgstr "<small>Liest</small>"
-
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 360
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 408
-#. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:568
-msgid ""
-"I've found an incantation, which can start a quarrel amongst the "
-"mercenaries, bandits, drakes, orcs and undeads. It's <i>Hamuk Mafaraguk</i>—"
-msgstr ""
-"Ich habe eine Beschwörungsformel, die einen Streit unter den Trollen, "
-"Banditen, Draken, Orks und Untote beginnen kann gefunden. Sie heißt <i>Hamuk "
-"Mafaraguk</i>—"
-
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 356
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 480
-# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 71
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 396
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 356
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 480
-# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 76
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 510
-#. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:578
-msgid "No!"
-msgstr "Nein!"
-
-#. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:613
-msgid "Too late."
-msgstr "Zu spät."
+#, fuzzy
+msgid "Resist until the end of turns."
+msgstr "Unsere Heimat befindet sich am Ende des Tunnels."
 
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 383
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 430
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:622
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:540
 msgid ""
 "Camerades, enough of the alliance! I hate those disgusting drakes, undeads, "
 "bandits and everyone else! Slay them all!"
@@ -835,10 +784,15 @@ msgstr ""
 "Kameraden, genug von der Allianz! Ich hasse diese widerliche Draken, Untote, "
 "Gesetzlose und sonst wer! Tötet sie alle!"
 
+#. [message]
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:545
+msgid "Bah! This is taking too long. There are surely easier preys to capture."
+msgstr ""
+
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 391
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 438
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:626
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:556
 msgid ""
 "Undeads, it's time to teach everyone, that our race is the most powerful in "
 "the earth. Kill everyone who is not yet undead!"
@@ -847,94 +801,39 @@ msgstr ""
 "auf Erden ist. Tötet alle, die noch nicht tot sind!"
 
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:630
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:561
+msgid ""
+"If those stupid trolls want that we capture those fled prisoners, then they "
+"have to pay more!"
+msgstr ""
+
+#. [message]
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:572
 msgid ""
 "Why do proud drakes as us fight alongside such scum like orcs, outlaws and "
 "undead? Show the world who truly rules!"
 msgstr ""
 
-#
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 395
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 442
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:639
-msgid "It seems this incantation works well!"
-msgstr "Es scheint diese Beschwörungsformel funktioniert gut!"
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:577
+msgid "You fought bravely today, I shall retreat."
+msgstr ""
 
-#
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 422
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 88
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 111
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 469
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 89
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 131
-#. [modify_side]
-#. [side]: type=Great Troll
-#. [side]: type=Orcish Warlord
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:666
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:92
-#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:137
-msgid "Orcs"
-msgstr "Orks"
+#. [message]
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:587
+msgid "They are withdrawing! Victory is ours!"
+msgstr ""
 
-#. [modify_side]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:671
-msgid "Mercenaries"
-msgstr "Söldner"
-
-#
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 432
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 479
-#. [modify_side]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:676
-msgid "Outlaws"
-msgstr "Geächtete"
-
-#
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 437
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 74
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 111
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 150
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 180
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 484
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 73
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 106
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 140
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 173
-#. [modify_side]
-#. [side]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:681
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:94
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:130
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:167
-#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:197
-msgid "Drakes"
-msgstr "Draken"
-
-#
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 442
-# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 77
-# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 95
-# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 141
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 489
-# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 76
-# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 95
-# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 152
-#. [modify_side]
-#. [side]
-#. [side]: type=Draug
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:686
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:84
-#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:105
-#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:210
-msgid "Undead"
-msgstr "Untote"
+#. [message]
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:610
+msgid "They are more thought than expected. Call of the reinforcements!"
+msgstr ""
 
 #
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 532
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 588
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:785
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:714
 msgid "We've surrounded you. Surrender, or prepare to die!"
 msgstr ""
 "Wir haben euch umgeben. Ergibt euch, oder bereiten euch vor zu sterben!"
@@ -943,7 +842,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 537
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 593
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:790
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:719
 msgid "I think our only choice is to defeat them."
 msgstr "Ich denke, unsere einzige Wahl ist es, sie zu besiegen."
 
@@ -951,7 +850,7 @@ msgstr "Ich denke, unsere einzige Wahl ist es, sie zu besiegen."
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 542
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 598
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:795
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:724
 msgid "I think so. Then let the combat begin!"
 msgstr "Ich denke schon. Dann laß uns den Kampf beginnen!"
 
@@ -959,7 +858,7 @@ msgstr "Ich denke schon. Dann laß uns den Kampf beginnen!"
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 547
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 603
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:800
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:729
 msgid "Stupid dwarves and elves. Noone of you will survive this battle!"
 msgstr "Dumme Zwerge und Elfen. Niemand von euch wird die Schlacht überleben!"
 
@@ -967,7 +866,7 @@ msgstr "Dumme Zwerge und Elfen. Niemand von euch wird die Schlacht überleben!"
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 557
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 613
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:810
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:739
 msgid ""
 "We are in big trouble as we are seriously outnumbered by the enemies. There "
 "are more of them, then I expected. We'd better go into the cave until we "
@@ -981,18 +880,9 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 562
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 618
 #. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:815
+#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:744
 msgid "Good idea. I hope life will be easier inside..."
 msgstr "Gute Idee. Ich hoffe, das Leben wird leichter drinnen…"
-
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 616
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 672
-#. [message]
-#: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:866
-msgid ""
-"Oh, no! We have run out of time, they have arrived with reinforcements..."
-msgstr ""
-"Oh, nein! Wir haben keine Zeit mehr sie sind mit Verstärkungen eingetroffen…"
 
 # File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 6
 # File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 6
@@ -1152,7 +1042,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 463
 #. [message]
 #: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:597
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:492
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:491
 msgid "Help, I'm drowning!"
 msgstr "Hilfe, ich ertrinke!"
 
@@ -1217,6 +1107,23 @@ msgstr "Waldschrate"
 #: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:163
 msgid "Brumennarunom"
 msgstr "Brumennarunom"
+
+#
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 289
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 305
+# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 196
+# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 213
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 214
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 230
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 335
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 351
+# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 209
+# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 226
+#. [objective]: condition=win
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:222
+#: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:247
+msgid "Defeat all enemy leaders."
+msgstr "Besiegt alle gegnerischen Anführer"
 
 #. [note]
 #: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:240
@@ -1337,6 +1244,25 @@ msgstr ""
 #: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:6
 msgid "RfC — The Land of the Dragons"
 msgstr "RfC — Das Land der Drachen"
+
+#
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 437
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 74
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 111
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 150
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 180
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 484
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 73
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 106
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 140
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 173
+#. [side]
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:94
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:130
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:167
+#: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:197
+msgid "Drakes"
+msgstr "Draken"
 
 #
 # File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 212
@@ -1573,7 +1499,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 318
 #. [message]
 #: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:724
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:348
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:347
 msgid "Oh, no! We have run out of time, reinforcements have arrived..."
 msgstr "Oh, nein! Uns ist die Zeit abgelaufen, Verstärkung ist eingetroffen…"
 
@@ -1682,12 +1608,12 @@ msgstr "Naga"
 #. [side]: type=Direwolf Rider
 #. [side]: type=Spectre
 #: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:180
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:215
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:214
 msgid "East"
 msgstr "Osten"
 
 #. [side]: type=Spectre
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:211
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:210
 msgid "Horus"
 msgstr ""
 
@@ -1695,7 +1621,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 178
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 201
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:250
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:249
 msgid ""
 "Cross the river with $Player1Name and reach one of the signposts at the "
 "north-east part of the map."
@@ -1707,7 +1633,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 194
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 217
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:271
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:270
 msgid ""
 "Cross the river with $Player2Name and reach one of the signposts at the "
 "north-east part of the map."
@@ -1719,7 +1645,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 215
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 238
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:302
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:301
 msgid "We've come earlier than I expected, the river hasn't been frozen yet."
 msgstr ""
 "Wir sind früher als ich erwartet gekommen, der Fluss ist noch nicht "
@@ -1729,7 +1655,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 220
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 243
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:307
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:306
 msgid ""
 "The water is very deep, so we can't cross if there's no ice on it. We have "
 "to wait until the river freezes."
@@ -1741,7 +1667,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 225
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 248
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:312
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:311
 msgid ""
 "Be careful, step only those ice hexes which aren't adjacent to water "
 "otherwise you could easily get drowned."
@@ -1753,7 +1679,7 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 230
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 253
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:317
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:316
 msgid "You'll never cross this river! Prepare to die!"
 msgstr "Du wirst nie diesem Fluss überqueren! Bereit euch vor zu sterben!"
 
@@ -1761,7 +1687,7 @@ msgstr "Du wirst nie diesem Fluss überqueren! Bereit euch vor zu sterben!"
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 235
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 258
 #. [message]
-#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:322
+#: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:321
 msgid "Let's fight with them!"
 msgstr "Lasst uns mit ihnen kämpfen!"
 
@@ -1909,6 +1835,23 @@ msgstr "Möchten Sie mit dieser Einheit die Perle aufheben?"
 #: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:6
 msgid "RfC — The Labyrinth"
 msgstr "RfC — Das Labyrinth"
+
+#
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 442
+# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 77
+# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 95
+# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 141
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 489
+# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 76
+# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 95
+# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 152
+#. [side]
+#. [side]: type=Draug
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:84
+#: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:105
+#: Return_from_Captivity/scenarios/09_Open_Sesame.cfg:210
+msgid "Undead"
+msgstr "Untote"
 
 #
 # File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 236
@@ -2325,6 +2268,20 @@ msgid "RfC — Returning to Home"
 msgstr "RfC— Rückkehr zur Heimat"
 
 #
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 422
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 88
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 111
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 469
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 89
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 131
+#. [side]: type=Great Troll
+#. [side]: type=Orcish Warlord
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:92
+#: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:137
+msgid "Orcs"
+msgstr "Orks"
+
+#
 # File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 151
 # File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 166
 # File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 182
@@ -2737,9 +2694,9 @@ msgstr ""
 "aufbrach, um die Tiere zu zähmen. Nach mehreren versuchen ist es dem Kobold "
 "gelungen, ein Ei der großen Vögel zu stehlen und unter seiner Obhut zu "
 "bringen. Weniger als drei Monate später, als die Adler sie überfielen waren "
-"sie überrascht, einen durchdringenden Schrei von oben zu hören und noch "
-"mehr , als sie sich in Stücke von einem ihrer eigenen gerissen worden sind. "
-"Bis zum heutigen Tag reiten die Kobolde gezähmte Adler in der Schlacht ihr "
+"sie überrascht, einen durchdringenden Schrei von oben zu hören und noch mehr "
+", als sie sich in Stücke von einem ihrer eigenen gerissen worden sind. Bis "
+"zum heutigen Tag reiten die Kobolde gezähmte Adler in der Schlacht ihr "
 "Kampfschrei ist die einzige Warnung vor drohendem Unheil. "
 
 # File: Return_from_Captivity/units/Master_of_Alchemy.cfg, line: 5
@@ -3181,8 +3138,8 @@ msgstr "Tarnen"
 #. [hides]: id=rfc_camouflage
 #: Return_from_Captivity/utils/abilities.cfg:29
 msgid ""
-"This unit can hide in sand and desert, and remain undetected by its "
-"enemies.\n"
+"This unit can hide in sand and desert, and remain undetected by its enemies."
+"\n"
 "\n"
 "Enemy units cannot see or attack this unit when it is in sand or desert, "
 "except for any turn immediately after this unit has attacked, or if there "
@@ -3203,8 +3160,8 @@ msgstr ""
 #: Return_from_Captivity/utils/abilities.cfg:33
 msgid ""
 "Camouflage:\n"
-"This unit can hide in sand and desert, and remain undetected by its "
-"enemies.\n"
+"This unit can hide in sand and desert, and remain undetected by its enemies."
+"\n"
 "\n"
 "Enemy units cannot see or attack this unit when it is in sand or desert, "
 "except for any turn immediately after this unit has attacked, or if there "
@@ -3334,11 +3291,13 @@ msgstr ""
 
 # File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 798
 # File: Return_from_Captivity/utils/abilities.cfg, line: 181
+#. [floating_text]
 #: Return_from_Captivity/utils/abilities.cfg:181
 msgid "female^stunned"
 msgstr "gelähmt"
 
 # File: Return_from_Captivity/utils/abilities.cfg, line: 187
+#. [floating_text]
 #: Return_from_Captivity/utils/abilities.cfg:187
 msgid "stunned"
 msgstr "gelähmt"
