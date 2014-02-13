@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-01-31 15:05+0000\n"
+"POT-Creation-Date: 2014-02-03 13:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,12 +36,12 @@ msgstr ""
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
 #: Return_from_Captivity/_main.cfg:35
-msgid "(Normal)"
+msgid "Lord"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
 #: Return_from_Captivity/_main.cfg:35
-msgid "Lord"
+msgid "(Normal)"
 msgstr ""
 
 #. [about]
@@ -200,12 +200,12 @@ msgid "Get out from the prison (reach the south west section of the map)."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:464 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:490 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:510 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:143 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:164 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:227 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:252 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:551 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:572 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:254 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:275 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:363 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:384 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:432 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:453 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:252 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:273 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:137 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:152 Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:288 Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:315
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:464 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:490 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:510 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:144 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:165 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:227 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:252 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:551 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:572 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:254 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:275 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:363 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:384 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:432 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:453 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:252 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:273 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:137 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:152 Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:288 Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:315
 msgid "Death of $Player1Name"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:468 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:494 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:514 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:147 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:168 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:231 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:256 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:555 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:576 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:258 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:279 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:367 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:388 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:436 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:457 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:256 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:277 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:141 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:156 Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:292 Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:319
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:468 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:494 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:514 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:148 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:169 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:231 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:256 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:555 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:576 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:258 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:279 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:367 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:388 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:436 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:457 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:256 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:277 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:141 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:156 Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:292 Return_from_Captivity/scenarios/11_Returning_to_Home.cfg:319
 msgid "Death of $Player2Name"
 msgstr ""
 
@@ -275,7 +275,7 @@ msgid "The prisoners have escaped! Follow them and slay them all!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Return_from_Captivity/scenarios/01_The_Prison.cfg:715 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:763 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:424 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:387 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:710 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:334 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:495 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:609 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:430 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:185
+#: Return_from_Captivity/scenarios/01_The_Prison.cfg:715 Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg:763 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:429 Return_from_Captivity/scenarios/04_Save_the_Forest.cfg:387 Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg:710 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:334 Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg:495 Return_from_Captivity/scenarios/08_The_Labyrinth.cfg:609 Return_from_Captivity/scenarios/09_Open_Sesame.cfg:430 Return_from_Captivity/scenarios/10_The_Tunnel.cfg:185
 msgid "I die now, friends... I won't see my homeland any more..."
 msgstr ""
 
@@ -415,62 +415,62 @@ msgid "Kogan Mynth"
 msgstr ""
 
 #. [objective]: condition=win
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:138 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:159
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:139 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:160
 msgid "Reach the ships at the north east part of the map."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:266
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:267
 msgid "We've reached the port, it's on the other side of the river! We'd better leave this place as soon as we can."
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:270
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:271
 msgid "I don't want to stay here for a long either. Why is this river called the River of the Everlasting Fluctuation?"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:274
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:275
 msgid "Because the tide is remarkable on that river. We must be very careful in the flood, as our fighters can drown in the deep water."
 msgstr ""
 
 #. [message]: type=Mermaid Initiate
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:341
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:346
 msgid "Thank you for rescuing us! We will help you fight against the undeads!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:345 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:405
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:350 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:410
 msgid "Recruit list changed"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:347 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:407
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:352 Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:412
 msgid "You can now recruit mermen"
 msgstr ""
 
 #. [message]: type=Merman Hunter
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:401
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:406
 msgid "Thank you for letting us free! Now we join to fight on the dwarves' side!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:437
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:442
 msgid "Oh, no! The ships have launched from the docks. We couldn't escape from this island!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:597 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:491
-msgid "Help, I'm drowning!"
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:562 Return_from_Captivity/scenarios/06_The_Frozen_River.cfg:480
+msgid "Help, I’m drowning!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:623
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:587
 msgid "The water reached its highest level, so it's time to start crossing the river!"
 msgstr ""
 
 #. [message]
-#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:648
+#: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg:612
 msgid "We've reached the ships at last. Now we can leave this dangerous island."
 msgstr ""
 
