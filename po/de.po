@@ -2313,9 +2313,9 @@ msgstr ""
 "aufbrach, um die Tiere zu zähmen. Nach mehreren versuchen ist es dem Kobold "
 "gelungen, ein Ei der großen Vögel zu stehlen und unter seiner Obhut zu "
 "bringen. Weniger als drei Monate später, als die Adler sie überfielen waren "
-"sie überrascht, einen durchdringenden Schrei von oben zu hören und noch "
-"mehr , als sie sich in Stücke von einem ihrer eigenen gerissen worden sind. "
-"Bis zum heutigen Tag reiten die Kobolde gezähmte Adler in der Schlacht ihr "
+"sie überrascht, einen durchdringenden Schrei von oben zu hören und noch mehr "
+", als sie sich in Stücke von einem ihrer eigenen gerissen worden sind. Bis "
+"zum heutigen Tag reiten die Kobolde gezähmte Adler in der Schlacht ihr "
 "Kampfschrei ist die einzige Warnung vor drohendem Unheil. "
 
 # File: Return_from_Captivity/units/Master_of_Alchemy.cfg, line: 5
@@ -2696,8 +2696,8 @@ msgstr "Tarnen"
 # File: Return_from_Captivity/utils/abilities.cfg, line: 29
 #. [hides]: id=rfc_camouflage
 msgid ""
-"This unit can hide in sand and desert, and remain undetected by its "
-"enemies.\n"
+"This unit can hide in sand and desert, and remain undetected by its enemies."
+"\n"
 "\n"
 "Enemy units cannot see or attack this unit when it is in sand or desert, "
 "except for any turn immediately after this unit has attacked, or if there "
@@ -2809,72 +2809,3 @@ msgstr "vorsichtig"
 #. [trait]: id=rfc_warily
 msgid "better movement and defense in caves"
 msgstr ""
-
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 6
-# File: Return_from_Captivity/_main.cfg, line: 28
-#~ msgid "2p — Return from Captivity"
-#~ msgstr "2s — Rückkehr aus der Gefangenschaft"
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 13
-# File: Return_from_Captivity/utils/abilities.cfg, line: 16
-#~ msgid ""
-#~ "Desertcrawler:\n"
-#~ "This unit will regenerate 3 hp when in desert or sand."
-#~ msgstr ""
-#~ "Sandkriecher:\n"
-#~ "Diese Einheit regeneriert 3 LP falls in Wüstengebieten oder Sand."
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 24
-# File: Return_from_Captivity/utils/abilities.cfg, line: 28
-# File: Return_from_Captivity/utils/abilities.cfg, line: 33
-#~ msgid ""
-#~ "Camouflage:\n"
-#~ "This unit can hide in sand and desert, and remain undetected by its "
-#~ "enemies.\n"
-#~ "\n"
-#~ "Enemy units cannot see or attack this unit when it is in sand or desert, "
-#~ "except for any turn immediately after this unit has attacked, or if there "
-#~ "are enemy units next to this unit."
-#~ msgstr ""
-#~ "Tarnen:\n"
-#~ "Diese Einheit kann sich in Sand und Wüsten verstecken und bleibt von "
-#~ "seinen Feinden unerkannt.\n"
-#~ "\n"
-#~ "Feindliche Einheiten können diese Einheit weder sehen noch angreifen, "
-#~ "solang sie in Sand oder Wüste ist, außer unmittelbar nachdem diese "
-#~ "Einheit angegriffen wird, oder wenn feindliche Einheiten neben dieser ist."
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 48
-# File: Return_from_Captivity/utils/abilities.cfg, line: 52
-# File: Return_from_Captivity/utils/abilities.cfg, line: 59
-#~ msgid ""
-#~ "Invisibility:\n"
-#~ "This unit is invisible by its enemies.\n"
-#~ "\n"
-#~ "Enemy units cannot see this unit, except if they have units next to it. "
-#~ "Any enemy unit that first discovers this unit immediately loses all its "
-#~ "remaining movement."
-#~ msgstr ""
-#~ "Unsichtbarkeit:\n"
-#~ "Diese Einheit ist für ihre Feinde unsichtbar.\n"
-#~ "\n"
-#~ "Feindliche Einheiten können diese Einheit nicht sehen, außer wenn sie "
-#~ "Einheiten neben ihm hat. Jede feindliche Einheit, die zuerst diese "
-#~ "Einheit entdeckt verliert sofort alle seine verbleibenden Bewegungspunkte."
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 68
-# File: Return_from_Captivity/utils/abilities.cfg, line: 70
-# File: Return_from_Captivity/utils/abilities.cfg, line: 79
-#~ msgid ""
-#~ "Dancer:\n"
-#~ "This unit always has a defense of 60% when attacking while not standing "
-#~ "in water, because the enemy cannot get a direct hit."
-#~ msgstr ""
-#~ "Tänzer:\n"
-#~ "Diese Einheit hat immer eine Verteidigung von 60% bei einem Angriff "
-#~ "während sie nicht im Wasser steht, weil der Feind kein direkten Treffer "
-#~ "bekommen kann"

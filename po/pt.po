@@ -2481,8 +2481,8 @@ msgstr "camuflagem"
 # File: Return_from_Captivity/utils/abilities.cfg, line: 29
 #. [hides]: id=rfc_camouflage
 msgid ""
-"This unit can hide in sand and desert, and remain undetected by its "
-"enemies.\n"
+"This unit can hide in sand and desert, and remain undetected by its enemies."
+"\n"
 "\n"
 "Enemy units cannot see or attack this unit when it is in sand or desert, "
 "except for any turn immediately after this unit has attacked, or if there "
@@ -2600,71 +2600,3 @@ msgstr "cuidadoso"
 #. [trait]: id=rfc_warily
 msgid "better movement and defense in caves"
 msgstr "melhor defesa e movimento em cavernas"
-
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 6
-# File: Return_from_Captivity/_main.cfg, line: 28
-#~ msgid "2p — Return from Captivity"
-#~ msgstr "2j — Retorno do Cativeiro"
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 13
-# File: Return_from_Captivity/utils/abilities.cfg, line: 16
-#~ msgid ""
-#~ "Desertcrawler:\n"
-#~ "This unit will regenerate 3 hp when in desert or sand."
-#~ msgstr ""
-#~ "habitante do deserto:\n"
-#~ "Esta unidade irá regenerar 3 HP enquanto em areia ou deserto."
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 24
-# File: Return_from_Captivity/utils/abilities.cfg, line: 28
-# File: Return_from_Captivity/utils/abilities.cfg, line: 33
-#~ msgid ""
-#~ "Camouflage:\n"
-#~ "This unit can hide in sand and desert, and remain undetected by its "
-#~ "enemies.\n"
-#~ "\n"
-#~ "Enemy units cannot see or attack this unit when it is in sand or desert, "
-#~ "except for any turn immediately after this unit has attacked, or if there "
-#~ "are enemy units next to this unit."
-#~ msgstr ""
-#~ "Camuflagem:\n"
-#~ "Esta unidade consegue esconder-se em areia desértica, e ficar invisível "
-#~ "aos seus inimigos.\n"
-#~ "\n"
-#~ "Unidades inimigas não podem ver esta unidade enquanto estiver em areia, "
-#~ "excepto se estiverem junto a ele. Qualquer unidade que primeiro descobre "
-#~ "esta unidade imediatamente perde todo o seu restantes pontos de movimento."
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 48
-# File: Return_from_Captivity/utils/abilities.cfg, line: 52
-# File: Return_from_Captivity/utils/abilities.cfg, line: 59
-#~ msgid ""
-#~ "Invisibility:\n"
-#~ "This unit is invisible by its enemies.\n"
-#~ "\n"
-#~ "Enemy units cannot see this unit, except if they have units next to it. "
-#~ "Any enemy unit that first discovers this unit immediately loses all its "
-#~ "remaining movement."
-#~ msgstr ""
-#~ "Invisibilidade:\n"
-#~ "Esta unidade está invisível para os seus inimigos.\n"
-#~ "\n"
-#~ "Unidades inimigas não podem ver esta unidade, excepto se estiverem junto "
-#~ "a ele. Qualquer unidade que primeiro descobre esta unidade imediatamente "
-#~ "perde todo o seu restantes pontos de movimento."
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 68
-# File: Return_from_Captivity/utils/abilities.cfg, line: 70
-# File: Return_from_Captivity/utils/abilities.cfg, line: 79
-#~ msgid ""
-#~ "Dancer:\n"
-#~ "This unit always has a defense of 60% when attacking while not standing "
-#~ "in water, because the enemy cannot get a direct hit."
-#~ msgstr ""
-#~ "Dançarino:\n"
-#~ "Esta unidade tem sempre uma defesa de 60% enquanto atacar e não estiver "
-#~ "na água, porque o inimigo não consegue ter um golpe directo."
