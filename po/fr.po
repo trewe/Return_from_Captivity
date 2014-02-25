@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Valley_of_the_Ancients-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-03 13:57+0000\n"
+"POT-Creation-Date: 2014-02-25 13:30+0000\n"
 "PO-Revision-Date: 2012-10-13 04:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -33,11 +33,11 @@ msgid "(Expert level, 11 scenarios)"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "Lord"
+msgid "(Normal)"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "(Normal)"
+msgid "Lord"
 msgstr ""
 
 #. [about]
@@ -54,10 +54,6 @@ msgstr ""
 
 #. [multiplayer]: id=RfC_01_The_Prison, (type=Giant Spider, id=Tallia}, id=Sirius}, type=Dwarvish Steelclad, type=Elvish Hero
 msgid "RfC — Escaping from the Prison"
-msgstr ""
-
-#. [multiplayer]: id=RfC_01_The_Prison, (type=Giant Spider, id=Tallia}, id=Sirius}, type=Dwarvish Steelclad, type=Elvish Hero
-msgid "2p — Return from Captivity"
 msgstr ""
 
 #. [part]
@@ -514,7 +510,7 @@ msgid ""
 "payed for you."
 msgstr ""
 
-#. [multiplayer]: id=RfC_05_The_Land_of_the_Dragons, (type=RfC Cockatrice
+#. [multiplayer]: id=RfC_05_The_Land_of_the_Dragons
 msgid "RfC — The Land of the Dragons"
 msgstr ""
 
@@ -557,7 +553,7 @@ msgid ""
 "your feet bursts into flame as you test the heft of this mighty weapon."
 msgstr ""
 
-#. [effect]: type=fire
+#. [effect]
 msgid "flaming sword"
 msgstr ""
 
@@ -635,7 +631,7 @@ msgstr ""
 msgid "Rather grim place, full of dead bodies."
 msgstr ""
 
-#. [message]: speaker=unit
+#. [message]: speaker=second_unit
 msgid ""
 "Stone drakes! We'd better be very careful as there are Cockatrices near "
 "here. I don't want to be sculpture like this."
@@ -843,8 +839,8 @@ msgstr ""
 msgid "RfC — Open Sesame"
 msgstr ""
 
-#. [side]: type=Fugitive
-#. [side]: type=Highwayman
+#. [side]: type=Mighwar
+#. [side]: type=Shuja
 msgid "Humans"
 msgstr ""
 
@@ -1405,29 +1401,12 @@ msgstr ""
 msgid "This unit will regenerate 3 hp when in desert or sand."
 msgstr ""
 
-#. [regenerate]: id=healing
-msgid ""
-"Desertcrawler:\n"
-"This unit will regenerate 3 hp when in desert or sand."
-msgstr ""
-
 #. [hides]: id=rfc_camouflage
 msgid "camouflage"
 msgstr ""
 
 #. [hides]: id=rfc_camouflage
 msgid ""
-"This unit can hide in sand and desert, and remain undetected by its "
-"enemies.\n"
-"\n"
-"Enemy units cannot see or attack this unit when it is in sand or desert, "
-"except for any turn immediately after this unit has attacked, or if there "
-"are enemy units next to this unit."
-msgstr ""
-
-#. [hides]: id=rfc_camouflage
-msgid ""
-"Camouflage:\n"
 "This unit can hide in sand and desert, and remain undetected by its "
 "enemies.\n"
 "\n"
@@ -1449,16 +1428,6 @@ msgid ""
 "remaining movement."
 msgstr ""
 
-#. [hides]: id=rfc_invisibility
-msgid ""
-"Invisibility:\n"
-"This unit is invisible by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit, except if they have units next to it. Any "
-"enemy unit that first discovers this unit immediately loses all its "
-"remaining movement."
-msgstr ""
-
 #. [chance_to_hit]: id=rfc_dance
 msgid "dancer"
 msgstr ""
@@ -1469,13 +1438,6 @@ msgstr ""
 
 #. [chance_to_hit]: id=rfc_dance
 msgid ""
-"This unit always has a defense of 60% when attacking while not standing in "
-"water, because the enemy cannot get a direct hit."
-msgstr ""
-
-#. [chance_to_hit]: id=rfc_dance
-msgid ""
-"Dancer:\n"
 "This unit always has a defense of 60% when attacking while not standing in "
 "water, because the enemy cannot get a direct hit."
 msgstr ""

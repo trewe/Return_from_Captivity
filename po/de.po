@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-03 13:57+0000\n"
+"POT-Creation-Date: 2014-02-25 13:30+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: trewe <sjrs456@yahoo.fr>\n"
@@ -59,12 +59,12 @@ msgid "(Expert level, 11 scenarios)"
 msgstr "(Einstufung: Schwierig, 11 Szenarien)"
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "Lord"
-msgstr "Fürst"
-
-#. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
 msgid "(Normal)"
 msgstr "(Normal)"
+
+#. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
+msgid "Lord"
+msgstr "Fürst"
 
 #. [about]
 msgid "Creator and Original Designer"
@@ -82,12 +82,6 @@ msgstr "Kampagnenbetreuung"
 #, fuzzy
 msgid "RfC — Escaping from the Prison"
 msgstr "RfC — Die Zitadelle"
-
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 6
-# File: Return_from_Captivity/_main.cfg, line: 28
-#. [multiplayer]: id=RfC_01_The_Prison, (type=Giant Spider, id=Tallia}, id=Sirius}, type=Dwarvish Steelclad, type=Elvish Hero
-msgid "2p — Return from Captivity"
-msgstr "2s — Rückkehr aus der Gefangenschaft"
 
 #
 # File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 21
@@ -1044,7 +1038,7 @@ msgstr ""
 
 # File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 6
 # File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 6
-#. [multiplayer]: id=RfC_05_The_Land_of_the_Dragons, (type=RfC Cockatrice
+#. [multiplayer]: id=RfC_05_The_Land_of_the_Dragons
 msgid "RfC — The Land of the Dragons"
 msgstr "RfC — Das Land der Drachen"
 
@@ -1138,7 +1132,7 @@ msgstr ""
 #
 # File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 326
 # File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 326
-#. [effect]: type=fire
+#. [effect]
 msgid "flaming sword"
 msgstr "Flammenschwert"
 
@@ -1288,7 +1282,7 @@ msgstr "Ein düsterer Ort, voller Leichen."
 #
 # File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 735
 # File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 832
-#. [message]: speaker=unit
+#. [message]: speaker=second_unit
 msgid ""
 "Stone drakes! We'd better be very careful as there are Cockatrices near "
 "here. I don't want to be sculpture like this."
@@ -1676,8 +1670,8 @@ msgstr "RfC — Sesam öffne dich"
 # File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 99
 # File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 84
 # File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 107
-#. [side]: type=Fugitive
-#. [side]: type=Highwayman
+#. [side]: type=Mighwar
+#. [side]: type=Shuja
 msgid "Humans"
 msgstr "Menschen"
 
@@ -2689,17 +2683,6 @@ msgid "This unit will regenerate 3 hp when in desert or sand."
 msgstr "Diese Einheit regeneriert 3 LP falls in Wüstengebieten oder Sand."
 
 #
-# File: Return_from_Captivity/utils/abilities.cfg, line: 13
-# File: Return_from_Captivity/utils/abilities.cfg, line: 16
-#. [regenerate]: id=healing
-msgid ""
-"Desertcrawler:\n"
-"This unit will regenerate 3 hp when in desert or sand."
-msgstr ""
-"Sandkriecher:\n"
-"Diese Einheit regeneriert 3 LP falls in Wüstengebieten oder Sand."
-
-#
 # File: Return_from_Captivity/utils/abilities.cfg, line: 22
 # File: Return_from_Captivity/utils/abilities.cfg, line: 23
 # File: Return_from_Captivity/utils/abilities.cfg, line: 26
@@ -2720,28 +2703,6 @@ msgid ""
 "except for any turn immediately after this unit has attacked, or if there "
 "are enemy units next to this unit."
 msgstr ""
-"Diese Einheit kann sich in Sand und Wüsten verstecken und bleibt von seinen "
-"Feinden unerkannt.\n"
-"\n"
-"Feindliche Einheiten können diese Einheit weder sehen noch angreifen, solang "
-"sie in Sand oder Wüste ist, außer unmittelbar nachdem diese Einheit "
-"angegriffen wird, oder wenn feindliche Einheiten neben dieser ist."
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 24
-# File: Return_from_Captivity/utils/abilities.cfg, line: 28
-# File: Return_from_Captivity/utils/abilities.cfg, line: 33
-#. [hides]: id=rfc_camouflage
-msgid ""
-"Camouflage:\n"
-"This unit can hide in sand and desert, and remain undetected by its "
-"enemies.\n"
-"\n"
-"Enemy units cannot see or attack this unit when it is in sand or desert, "
-"except for any turn immediately after this unit has attacked, or if there "
-"are enemy units next to this unit."
-msgstr ""
-"Tarnen:\n"
 "Diese Einheit kann sich in Sand und Wüsten verstecken und bleibt von seinen "
 "Feinden unerkannt.\n"
 "\n"
@@ -2776,26 +2737,6 @@ msgstr ""
 "entdeckt verliert sofort alle seine verbleibenden Bewegungspunkte."
 
 #
-# File: Return_from_Captivity/utils/abilities.cfg, line: 48
-# File: Return_from_Captivity/utils/abilities.cfg, line: 52
-# File: Return_from_Captivity/utils/abilities.cfg, line: 59
-#. [hides]: id=rfc_invisibility
-msgid ""
-"Invisibility:\n"
-"This unit is invisible by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit, except if they have units next to it. Any "
-"enemy unit that first discovers this unit immediately loses all its "
-"remaining movement."
-msgstr ""
-"Unsichtbarkeit:\n"
-"Diese Einheit ist für ihre Feinde unsichtbar.\n"
-"\n"
-"Feindliche Einheiten können diese Einheit nicht sehen, außer wenn sie "
-"Einheiten neben ihm hat. Jede feindliche Einheit, die zuerst diese Einheit "
-"entdeckt verliert sofort alle seine verbleibenden Bewegungspunkte."
-
-#
 # File: Return_from_Captivity/utils/abilities.cfg, line: 65
 # File: Return_from_Captivity/utils/abilities.cfg, line: 66
 # File: Return_from_Captivity/utils/abilities.cfg, line: 73
@@ -2819,20 +2760,6 @@ msgid ""
 "This unit always has a defense of 60% when attacking while not standing in "
 "water, because the enemy cannot get a direct hit."
 msgstr ""
-"Diese Einheit hat immer eine Verteidigung von 60% bei einem Angriff während "
-"sie nicht im Wasser steht, weil der Feind kein direkten Treffer bekommen kann"
-
-#
-# File: Return_from_Captivity/utils/abilities.cfg, line: 68
-# File: Return_from_Captivity/utils/abilities.cfg, line: 70
-# File: Return_from_Captivity/utils/abilities.cfg, line: 79
-#. [chance_to_hit]: id=rfc_dance
-msgid ""
-"Dancer:\n"
-"This unit always has a defense of 60% when attacking while not standing in "
-"water, because the enemy cannot get a direct hit."
-msgstr ""
-"Tänzer:\n"
 "Diese Einheit hat immer eine Verteidigung von 60% bei einem Angriff während "
 "sie nicht im Wasser steht, weil der Feind kein direkten Treffer bekommen kann"
 
@@ -2882,3 +2809,72 @@ msgstr "vorsichtig"
 #. [trait]: id=rfc_warily
 msgid "better movement and defense in caves"
 msgstr ""
+
+# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 6
+# File: Return_from_Captivity/_main.cfg, line: 28
+#~ msgid "2p — Return from Captivity"
+#~ msgstr "2s — Rückkehr aus der Gefangenschaft"
+
+#
+# File: Return_from_Captivity/utils/abilities.cfg, line: 13
+# File: Return_from_Captivity/utils/abilities.cfg, line: 16
+#~ msgid ""
+#~ "Desertcrawler:\n"
+#~ "This unit will regenerate 3 hp when in desert or sand."
+#~ msgstr ""
+#~ "Sandkriecher:\n"
+#~ "Diese Einheit regeneriert 3 LP falls in Wüstengebieten oder Sand."
+
+#
+# File: Return_from_Captivity/utils/abilities.cfg, line: 24
+# File: Return_from_Captivity/utils/abilities.cfg, line: 28
+# File: Return_from_Captivity/utils/abilities.cfg, line: 33
+#~ msgid ""
+#~ "Camouflage:\n"
+#~ "This unit can hide in sand and desert, and remain undetected by its "
+#~ "enemies.\n"
+#~ "\n"
+#~ "Enemy units cannot see or attack this unit when it is in sand or desert, "
+#~ "except for any turn immediately after this unit has attacked, or if there "
+#~ "are enemy units next to this unit."
+#~ msgstr ""
+#~ "Tarnen:\n"
+#~ "Diese Einheit kann sich in Sand und Wüsten verstecken und bleibt von "
+#~ "seinen Feinden unerkannt.\n"
+#~ "\n"
+#~ "Feindliche Einheiten können diese Einheit weder sehen noch angreifen, "
+#~ "solang sie in Sand oder Wüste ist, außer unmittelbar nachdem diese "
+#~ "Einheit angegriffen wird, oder wenn feindliche Einheiten neben dieser ist."
+
+#
+# File: Return_from_Captivity/utils/abilities.cfg, line: 48
+# File: Return_from_Captivity/utils/abilities.cfg, line: 52
+# File: Return_from_Captivity/utils/abilities.cfg, line: 59
+#~ msgid ""
+#~ "Invisibility:\n"
+#~ "This unit is invisible by its enemies.\n"
+#~ "\n"
+#~ "Enemy units cannot see this unit, except if they have units next to it. "
+#~ "Any enemy unit that first discovers this unit immediately loses all its "
+#~ "remaining movement."
+#~ msgstr ""
+#~ "Unsichtbarkeit:\n"
+#~ "Diese Einheit ist für ihre Feinde unsichtbar.\n"
+#~ "\n"
+#~ "Feindliche Einheiten können diese Einheit nicht sehen, außer wenn sie "
+#~ "Einheiten neben ihm hat. Jede feindliche Einheit, die zuerst diese "
+#~ "Einheit entdeckt verliert sofort alle seine verbleibenden Bewegungspunkte."
+
+#
+# File: Return_from_Captivity/utils/abilities.cfg, line: 68
+# File: Return_from_Captivity/utils/abilities.cfg, line: 70
+# File: Return_from_Captivity/utils/abilities.cfg, line: 79
+#~ msgid ""
+#~ "Dancer:\n"
+#~ "This unit always has a defense of 60% when attacking while not standing "
+#~ "in water, because the enemy cannot get a direct hit."
+#~ msgstr ""
+#~ "Tänzer:\n"
+#~ "Diese Einheit hat immer eine Verteidigung von 60% bei einem Angriff "
+#~ "während sie nicht im Wasser steht, weil der Feind kein direkten Treffer "
+#~ "bekommen kann"
