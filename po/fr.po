@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Valley_of_the_Ancients-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-25 13:30+0000\n"
+"POT-Creation-Date: 2014-05-24 17:18+0100\n"
 "PO-Revision-Date: 2012-10-13 04:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -33,11 +33,11 @@ msgid "(Expert level, 11 scenarios)"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "(Normal)"
+msgid "Lord"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "Lord"
+msgid "(Normal)"
 msgstr ""
 
 #. [about]
@@ -52,7 +52,7 @@ msgstr ""
 msgid "Campaign Maintenance"
 msgstr ""
 
-#. [multiplayer]: id=RfC_01_The_Prison, (type=Giant Spider, id=Tallia}, id=Sirius}, type=Dwarvish Steelclad, type=Elvish Hero
+#. [scenario]: id=RfC_01_The_Prison, (type=Giant Spider, id=Tallia}, id=Sirius}, type=Dwarvish Steelclad, type=Elvish Hero
 msgid "RfC — Escaping from the Prison"
 msgstr ""
 
@@ -63,19 +63,6 @@ msgid ""
 "down. The prison is famous because noone has ever managed to leave it alive. "
 "The prisoners are mainly elves, trolls and humans, who are thought to be "
 "extermely dangerous for the outlaw society."
-msgstr ""
-
-#. [side]: id=P1, type=Elvish Captain
-#. [side]: id=P2, type=Dwarvish Steelclad
-msgid "Allies"
-msgstr ""
-
-#. [side]: id=P1, type=Elvish Captain
-msgid "Player1"
-msgstr ""
-
-#. [side]: id=P2, type=Dwarvish Steelclad
-msgid "Player2"
 msgstr ""
 
 #. [side]: type=Goblin Rouser
@@ -246,7 +233,7 @@ msgid ""
 "now."
 msgstr ""
 
-#. [multiplayer]: id=RfC_02_The_Valley_of_the_Fear
+#. [scenario]: id=RfC_02_The_Valley_of_the_Fear
 msgid "RfC — Valley of the Fear"
 msgstr ""
 
@@ -298,7 +285,7 @@ msgstr ""
 #. [message]
 msgid ""
 "If those stupid trolls want that we capture those fled prisoners, then they "
-"have to pay more!"
+"have to pay more."
 msgstr ""
 
 #. [message]
@@ -346,7 +333,7 @@ msgstr ""
 msgid "Good idea. I hope life will be easier inside..."
 msgstr ""
 
-#. [multiplayer]: id=RfC_03_Leaving_the_Island
+#. [scenario]: id=RfC_03_Leaving_the_Island
 msgid "RfC — Leaving the Island"
 msgstr ""
 
@@ -393,7 +380,7 @@ msgid ""
 "flood, as our fighters can drown in the deep water."
 msgstr ""
 
-#. [message]: type=Mermaid Initiate
+#. [message]: role=speaker$unit.side|$x1|$y1
 msgid "Thank you for rescuing us! We will help you fight against the undeads!"
 msgstr ""
 
@@ -403,11 +390,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "You can now recruit mermen"
-msgstr ""
-
-#. [message]: type=Merman Hunter
-msgid ""
-"Thank you for letting us free! Now we join to fight on the dwarves' side!"
 msgstr ""
 
 #. [message]
@@ -431,7 +413,7 @@ msgid ""
 "We've reached the ships at last. Now we can leave this dangerous island."
 msgstr ""
 
-#. [multiplayer]: id=RfC_04_Save_the_Forest
+#. [scenario]: id=RfC_04_Save_the_Forest
 msgid "RfC — Save the Forest"
 msgstr ""
 
@@ -510,7 +492,7 @@ msgid ""
 "payed for you."
 msgstr ""
 
-#. [multiplayer]: id=RfC_05_The_Land_of_the_Dragons
+#. [scenario]: id=RfC_05_The_Land_of_the_Dragons
 msgid "RfC — The Land of the Dragons"
 msgstr ""
 
@@ -656,7 +638,7 @@ msgstr ""
 msgid "You've entered a holy place! The punishment for you is death."
 msgstr ""
 
-#. [multiplayer]: id=RfC_06_The_Frozen_River
+#. [scenario]: id=RfC_06_The_Frozen_River
 msgid "RfC — The Frozen River"
 msgstr ""
 
@@ -714,7 +696,7 @@ msgstr ""
 msgid "Let's fight with them!"
 msgstr ""
 
-#. [multiplayer]: id=RfC_07_The_Invisible_Legion
+#. [scenario]: id=RfC_07_The_Invisible_Legion
 msgid "RfC — The Invisible Legion"
 msgstr ""
 
@@ -779,7 +761,7 @@ msgstr ""
 msgid "Do you want this unit to pick up the pearl?"
 msgstr ""
 
-#. [multiplayer]: id=RfC_08_The_Labyrinth
+#. [scenario]: id=RfC_08_The_Labyrinth
 msgid "RfC — The Labyrinth"
 msgstr ""
 
@@ -835,7 +817,7 @@ msgid ""
 "labyrinth..."
 msgstr ""
 
-#. [multiplayer]: id=RfC_09_Open_Sesame
+#. [scenario]: id=RfC_09_Open_Sesame
 msgid "RfC — Open Sesame"
 msgstr ""
 
@@ -919,7 +901,7 @@ msgstr ""
 msgid "female^refreshed"
 msgstr ""
 
-#. [multiplayer]: id=RfC_10_The_Tunnel
+#. [scenario]: id=RfC_10_The_Tunnel
 msgid "RfC — The Tunnel"
 msgstr ""
 
@@ -985,7 +967,7 @@ msgstr ""
 msgid "Thanks, they will be great help for us!"
 msgstr ""
 
-#. [multiplayer]: id=RfC_11_Returning_to_Home
+#. [scenario]: id=RfC_11_Returning_to_Home
 msgid "RfC — Returning to Home"
 msgstr ""
 
@@ -1474,4 +1456,7 @@ msgstr ""
 
 #. [trait]: id=rfc_warily
 msgid "better movement and defense in caves"
+msgstr ""
+
+msgid "Allies"
 msgstr ""
