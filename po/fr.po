@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Valley_of_the_Ancients-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-03 13:57+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: 2012-10-13 04:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -33,11 +33,11 @@ msgid "(Expert level, 11 scenarios)"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "Lord"
+msgid "(Normal)"
 msgstr ""
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "(Normal)"
+msgid "Lord"
 msgstr ""
 
 #. [about]
@@ -67,19 +67,6 @@ msgid ""
 "down. The prison is famous because noone has ever managed to leave it alive. "
 "The prisoners are mainly elves, trolls and humans, who are thought to be "
 "extermely dangerous for the outlaw society."
-msgstr ""
-
-#. [side]: id=P1, type=Elvish Captain
-#. [side]: id=P2, type=Dwarvish Steelclad
-msgid "Allies"
-msgstr ""
-
-#. [side]: id=P1, type=Elvish Captain
-msgid "Player1"
-msgstr ""
-
-#. [side]: id=P2, type=Dwarvish Steelclad
-msgid "Player2"
 msgstr ""
 
 #. [side]: type=Goblin Rouser
@@ -302,7 +289,7 @@ msgstr ""
 #. [message]
 msgid ""
 "If those stupid trolls want that we capture those fled prisoners, then they "
-"have to pay more!"
+"have to pay more."
 msgstr ""
 
 #. [message]
@@ -397,7 +384,7 @@ msgid ""
 "flood, as our fighters can drown in the deep water."
 msgstr ""
 
-#. [message]: type=Mermaid Initiate
+#. [message]: role=speaker$unit.side|$x1|$y1
 msgid "Thank you for rescuing us! We will help you fight against the undeads!"
 msgstr ""
 
@@ -407,11 +394,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "You can now recruit mermen"
-msgstr ""
-
-#. [message]: type=Merman Hunter
-msgid ""
-"Thank you for letting us free! Now we join to fight on the dwarves' side!"
 msgstr ""
 
 #. [message]
@@ -1512,4 +1494,7 @@ msgstr ""
 
 #. [trait]: id=rfc_warily
 msgid "better movement and defense in caves"
+msgstr ""
+
+msgid "Allies"
 msgstr ""

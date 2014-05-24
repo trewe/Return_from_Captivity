@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Valley_of_the_Ancients-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-03 13:57+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: 2012-10-13 04:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -31,25 +31,30 @@ msgstr ""
 msgid "(Expert level, 11 scenarios)"
 msgstr ""
 
-#. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "Lord"
-msgstr ""
-
+# File: Troubled_Times/_main.cfg, line: 29
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
 msgid "(Normal)"
-msgstr ""
+msgstr "(Mediocris)"
+
+#
+# File: Mystery_Campaign/units/frontiers/L3_Lord.cfg, line: 5
+#. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
+msgid "Lord"
+msgstr "Dominus"
 
 #. [about]
 msgid "Creator and Original Designer"
-msgstr ""
+msgstr "Creator et Conditor"
 
 #. [entry]
 msgid "Csab"
 msgstr ""
 
+#
+# File: Saving_Elensefar/credits.cfg, line: 86
 #. [about]
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Conservatio Militiae"
 
 #. [multiplayer]: id=RfC_01_The_Prison, (type=Giant Spider, id=Tallia}, id=Sirius}, type=Dwarvish Steelclad, type=Elvish Hero
 msgid "RfC — Escaping from the Prison"
@@ -68,19 +73,6 @@ msgid ""
 "extermely dangerous for the outlaw society."
 msgstr ""
 
-#. [side]: id=P1, type=Elvish Captain
-#. [side]: id=P2, type=Dwarvish Steelclad
-msgid "Allies"
-msgstr ""
-
-#. [side]: id=P1, type=Elvish Captain
-msgid "Player1"
-msgstr ""
-
-#. [side]: id=P2, type=Dwarvish Steelclad
-msgid "Player2"
-msgstr ""
-
 #. [side]: type=Goblin Rouser
 #. [side]: type=Necrophage
 #. [side]: type=Saurian Oracle
@@ -93,13 +85,18 @@ msgstr ""
 
 #. [side]
 msgid "Trolls"
-msgstr ""
+msgstr "Troglodytae"
 
+#
+# File: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg, line: 53
+# File: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg, line: 72
+# File: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg, line: 91
+# File: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg, line: 110
 #. [side]
 #. [side]: type=Great Troll
 #. [side]: type=Naga Myrmidon
 msgid "Cave Critters"
-msgstr ""
+msgstr "spelunca bestias"
 
 #. [event]: race=human
 msgid "Tallia"
@@ -127,11 +124,11 @@ msgstr ""
 
 #. [object]: id=ring_of_reg
 msgid "Ring of Regeneration"
-msgstr ""
+msgstr "Anulus Convalescendi"
 
 #. [object]: id=ring_of_reg
 msgid "This ring will heal the bearer a little each turn."
-msgstr ""
+msgstr "Anulus gerulum quamque vicem paulatim curabit."
 
 #. [message]: speaker=unit
 msgid "The wall is weak here! I'll try to break through!"
@@ -301,7 +298,7 @@ msgstr ""
 #. [message]
 msgid ""
 "If those stupid trolls want that we capture those fled prisoners, then they "
-"have to pay more!"
+"have to pay more."
 msgstr ""
 
 #. [message]
@@ -396,7 +393,7 @@ msgid ""
 "flood, as our fighters can drown in the deep water."
 msgstr ""
 
-#. [message]: type=Mermaid Initiate
+#. [message]: role=speaker$unit.side|$x1|$y1
 msgid "Thank you for rescuing us! We will help you fight against the undeads!"
 msgstr ""
 
@@ -406,11 +403,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "You can now recruit mermen"
-msgstr ""
-
-#. [message]: type=Merman Hunter
-msgid ""
-"Thank you for letting us free! Now we join to fight on the dwarves' side!"
 msgstr ""
 
 #. [message]
@@ -446,7 +438,7 @@ msgstr ""
 
 #. [side]: type=Ancient Wose, id=brumennarorum
 msgid "Woses"
-msgstr ""
+msgstr "Voses"
 
 #. [side]: type=Ancient Wose, id=brumennarorum
 msgid "Brumennarunom"
@@ -454,7 +446,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Defeat all enemy leaders."
-msgstr ""
+msgstr "Omnes duces hostium vincere."
 
 #. [note]
 msgid "(early finish bonus depends of the size of forest saved)"
@@ -505,7 +497,7 @@ msgstr ""
 
 #. [floating_text]
 msgid "5"
-msgstr ""
+msgstr "V"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -517,13 +509,17 @@ msgstr ""
 msgid "RfC — The Land of the Dragons"
 msgstr ""
 
+#
+# File: Troubled_Times/scenarios/04_the_mountain.cfg, line: 63
+# File: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg, line: 62
+# File: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg, line: 85
 #. [side]
 msgid "Drakes"
-msgstr ""
+msgstr "Draculi"
 
 #. [side]
 msgid "Guardians"
-msgstr ""
+msgstr "Custodes"
 
 #. [side]
 msgid "Cockatrices"
@@ -531,15 +527,17 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "Do you want this unit to pick up the sword?"
-msgstr ""
+msgstr "Visne hic actor gladium sumere?"
 
+#
+# File: Saving_Elensefar/utils/utils.cfg, line: 86
 #. [option]: speaker=narrator
 msgid "Yes"
-msgstr ""
+msgstr "Ita"
 
 #. [object]: id={ID}
 msgid "Flaming Sword"
-msgstr ""
+msgstr "Gladius Ardens"
 
 #. [object]: id={ID}
 msgid ""
@@ -548,6 +546,9 @@ msgid ""
 "Tongues of flame dance on the surface, giving the metal a flawless mirrored "
 "finish."
 msgstr ""
+"Ensis immanis abhinc saecula magistris camini dryadalium diu oblitis factus "
+"est, qui adamantem cum igne interiori magico imbuerunt. Linguae flammae in "
+"superficie saltant, dantes adamanti nitorem perfectum ut speculum.."
 
 #. [message]: speaker=narrator
 msgid ""
@@ -555,14 +556,19 @@ msgid ""
 "to life! Strangely, you feel no heat once you pick it up, yet the grass at "
 "your feet bursts into flame as you test the heft of this mighty weapon."
 msgstr ""
+"Dum manum circum manubrium scorteum nitens ponis, animat se ensis cum magno "
+"strepitu! Non sentis mire calorem postquam carpsit, sed herba circum pedes "
+"accendit ut gravitatem magni ferri temptas."
 
 #. [effect]: type=fire
 msgid "flaming sword"
-msgstr ""
+msgstr "gladius ardens"
 
+#
+# File: Saving_Elensefar/utils/utils.cfg, line: 109
 #. [option]: speaker=narrator
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #. [message]: speaker=narrator
 msgid "Do you want this unit to pick up the staff?"
@@ -570,7 +576,7 @@ msgstr ""
 
 #. [object]: id={ID}
 msgid "Rod of Justice"
-msgstr ""
+msgstr "Virga Iustitiae"
 
 #. [object]: id={ID}
 msgid ""
@@ -583,7 +589,7 @@ msgstr ""
 
 #. [effect]: type=arcane
 msgid "rod of justice"
-msgstr ""
+msgstr "virga iustitiae"
 
 #. [objective]: condition=win
 msgid "Reach south-east part of the map."
@@ -723,7 +729,7 @@ msgstr ""
 
 #. [side]: type=Lich
 msgid "Unknown"
-msgstr ""
+msgstr "Ignotum"
 
 #. [objective]: condition=win
 msgid "Kill every invisible unit."
@@ -786,10 +792,14 @@ msgstr ""
 msgid "RfC — The Labyrinth"
 msgstr ""
 
+#
+# File: Troubled_Times/scenarios/11_the_last_battle.cfg, line: 99
+# File: Troubled_Times/scenarios/11_the_last_battle.cfg, line: 99
+# File: Troubled_Times/scenarios/11_the_last_battle.cfg, line: 97
 #. [side]
 #. [side]: type=Draug
 msgid "Undead"
-msgstr ""
+msgstr "Inmortus"
 
 #. [objective]: condition=win
 msgid "Get out of the labyrith with $Player1Name and $Player2Name."
@@ -845,7 +855,7 @@ msgstr ""
 #. [side]: type=Fugitive
 #. [side]: type=Highwayman
 msgid "Humans"
-msgstr ""
+msgstr "Homines"
 
 #. [side]
 #. [side]: type=Silver Mage
@@ -992,18 +1002,24 @@ msgstr ""
 msgid "RfC — Returning to Home"
 msgstr ""
 
+#
+# File: Troubled_Times/scenarios/11_the_last_battle.cfg, line: 42
+# File: Troubled_Times/scenarios/11_the_last_battle.cfg, line: 42
+# File: Troubled_Times/scenarios/11_the_last_battle.cfg, line: 40
 #. [side]: type=Great Troll
 #. [side]: type=Orcish Warlord
 msgid "Orcs"
-msgstr ""
+msgstr "Orces"
 
 #. [side]
 msgid "Undeads"
 msgstr ""
 
+# IE *widhu + anus (lord) n
+# adjective viduis,e from IE *widh-u-
 #. [side]
 msgid "Wose"
-msgstr ""
+msgstr "Vosis"
 
 #. [objective]: condition=win
 msgid "Reconquer your beloved homeland by defeating all usurpators."
@@ -1088,7 +1104,7 @@ msgstr ""
 
 #. [terrain_type]: id=DesertCampfire
 msgid "Campfire"
-msgstr ""
+msgstr "Focus"
 
 #. [terrain_type]: id=stone_ring
 msgid "Stone Ring"
@@ -1121,15 +1137,19 @@ msgstr ""
 
 #. [attack]: type=impact
 msgid "morningstar"
-msgstr ""
+msgstr "scipio armatus"
 
+#
+# File: Mystery_Campaign/units/elfs/Elvish_Hunter.cfg, line: 48
+# File: Mystery_Campaign/units/elfs/Elvish_Prowler.cfg, line: 49
+# File: Mystery_Campaign/units/elfs/Elvish_Trapper.cfg, line: 48
 #. [attack]: type=impact
 msgid "bolas"
-msgstr ""
+msgstr "Globi"
 
 #. [unit_type]: id=RfC Giant Ant, race=monster
 msgid "Giant Ant"
-msgstr ""
+msgstr "Ingens Formica"
 
 #. [unit_type]: id=RfC Giant Ant, race=monster
 msgid ""
@@ -1141,22 +1161,36 @@ msgstr ""
 #. [attack]: type=blade
 #. [attack]: type=pierce
 msgid "fangs"
-msgstr ""
+msgstr "dentes"
 
+#
+# /home/trewe/.wesnoth-dev/data/add-ons/Mystery_Campaign/factions/chaotic-humans.cfg, line 0: <toplevel>
+# /home/trewe/.wesnoth-dev/data/add-ons/Mystery_Campaign/factions/chaotic-humans.cfg, line 17: {ALLOW_EXTRA_RECRUIT
+# File: Mystery_Campaign/units/nagas/Cockatrice.cfg, line: 5
 #. [unit_type]: id=RfC Cockatrice, race=monster
 msgid "Cockatrice"
-msgstr ""
+msgstr "basiliscum alumnos"
 
+#
+# File: Mystery_Campaign/units/nagas/Cockatrice.cfg, line: 34
 #. [unit_type]: id=RfC Cockatrice, race=monster
 msgid ""
 "Sometimes known as 'basilisks', these mystical creatures are said to be able "
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"Interdum ut, basilisci, creaturae dicuntur haec mystica possit converti ad "
+"vivum lapidem. Opus dicere haec facit, quod valde periculosus."
 
+#
+# /home/trewe/.wesnoth-dev/data/add-ons/Mystery_Campaign/units/Cockatrice.cfg, line 0: <toplevel>
+# /home/trewe/.wesnoth-dev/data/add-ons/Mystery_Campaign/units/Cockatrice.cfg, line 2: [unit_type] has id=Cockatrice, race=monster, image="units/cockatrice.png", hitpoints=42, movement_type=smallfoot, movement=5, experience=100, level=2, alignment=chaotic, advances_to=null, cost=30, usage=fighter, die_sound=hiss-die.wav
+# /home/trewe/.wesnoth-dev/data/add-ons/Mystery_Campaign/units/Cockatrice.cfg, line 20: [attack] has name=gaze, type=cold, range=ranged, damage=2, number=2
+# /home/trewe/.wesnoth-dev/data/add-ons/Mystery_Campaign/units/Cockatrice.cfg, line 22: description=
+# File: Mystery_Campaign/units/nagas/Cockatrice.cfg, line: 38
 #. [attack]: type=cold
 msgid "gaze"
-msgstr ""
+msgstr "obtutus"
 
 #. [unit_type]: id=RfC Desert Cobra, race=monster
 msgid "Desert Cobra"
@@ -1180,17 +1214,19 @@ msgid ""
 "tongue of flame, from which cover and shelter offer little protection."
 msgstr ""
 
+#
+# File: Mystery_Campaign/units/aragwaithi/Aragwaith_Eagle_Master.cfg, line: 5
 #. [unit_type]: id=RfC_RocMaster, race=goblin, description=
 msgid "Eagle Master"
-msgstr ""
+msgstr "peritus aquila"
 
 #. [attack]: type=blade
 msgid "claws"
-msgstr ""
+msgstr "ungues"
 
 #. [attack]: type=pierce
 msgid "bow"
-msgstr ""
+msgstr "arcus"
 
 #. [unit_type]: id=RfC_RocRider, race=goblin
 msgid "Eagle Rider"
@@ -1237,11 +1273,15 @@ msgstr ""
 
 #. [attack]: type=blade
 msgid "axe"
-msgstr ""
+msgstr "securis"
 
+#
+# File: Mystery_Campaign/units/dark_legion/L1_Dark_Bowman.cfg, line: 26
+# File: Mystery_Campaign/units/dark_legion/L2_Dark_Longbowman.cfg, line: 24
+# File: Mystery_Campaign/units/dark_legion/L3_Dark_Heavy_Bowman.cfg, line: 25
 #. [attack]: type=blade
 msgid "hatchet"
-msgstr ""
+msgstr "securicula"
 
 #. [unit_type]: id=RfC Potion Smith, race=dwarf
 msgid "Dwarvish Potion Smith"
@@ -1273,11 +1313,11 @@ msgstr ""
 
 #. [attack]: type=blade
 msgid "sword"
-msgstr ""
+msgstr "gladius"
 
 #. [attack]: type=fire
 msgid "lightning"
-msgstr ""
+msgstr "fulmen"
 
 #. [unit_type]: id=RfC Elf Stormlord, race=elf
 msgid "Elf Stormlord"
@@ -1376,21 +1416,28 @@ msgid ""
 "from their staffs, which are real symbols of their power."
 msgstr ""
 
+#
+# File: Saving_Elensefar/units/Elvish_Admiral.cfg, line: 35
+# File: Saving_Elensefar/units/Elvish_Mariner.cfg, line: 31
+# File: Saving_Elensefar/units/Elvish_Navigator.cfg, line: 27
+# File: Saving_Elensefar/units/Initiate.cfg, line: 25
 #. [attack]: type=impact
 msgid "staff"
-msgstr ""
+msgstr "lituus"
 
+#
+# File: Saving_Elensefar/units/Initiate.cfg, line: 34
 #. [attack]: type=fire
 msgid "missile"
-msgstr ""
+msgstr "telum"
 
 #. [unit_type]: id=RfC Human Shaman, race=human
 msgid "Shaman"
-msgstr ""
+msgstr "Haruspica"
 
 #. [attack]: type=fire
 msgid "fireball"
-msgstr ""
+msgstr "globus ignis"
 
 #. [unit_type]: id=RfC Human Warlock, race=human
 msgid "Warlock"
@@ -1398,7 +1445,7 @@ msgstr ""
 
 #. [regenerate]: id=healing
 msgid "desert"
-msgstr ""
+msgstr "deserta"
 
 #. [regenerate]: id=healing
 msgid "This unit will regenerate 3 hp when in desert or sand."
@@ -1435,9 +1482,12 @@ msgid ""
 "are enemy units next to this unit."
 msgstr ""
 
+#
+# File: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg, line: 168
+# File: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg, line: 169
 #. [hides]: id=rfc_invisibility
 msgid "invisibility"
-msgstr ""
+msgstr "inuisibilitas"
 
 #. [hides]: id=rfc_invisibility
 msgid ""
@@ -1448,6 +1498,9 @@ msgid ""
 "remaining movement."
 msgstr ""
 
+#
+# File: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg, line: 170
+# File: Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg, line: 174
 #. [hides]: id=rfc_invisibility
 msgid ""
 "Invisibility:\n"
@@ -1457,6 +1510,11 @@ msgid ""
 "enemy unit that first discovers this unit immediately loses all its "
 "remaining movement."
 msgstr ""
+"Invisibilitatem:\n"
+"Haec unitas est invisibilis a hostes.\n"
+"\n"
+"hostium non videre haec unitas unitates, nisi quod habent propinquam. Hostem "
+"unitatem primum reperit hoc unitas statim amittit reliquis motus."
 
 #. [chance_to_hit]: id=rfc_dance
 msgid "dancer"
@@ -1481,7 +1539,7 @@ msgstr ""
 
 #. [weapon_special_stun]: id=rfc_stun
 msgid "stun"
-msgstr ""
+msgstr "stupefacit"
 
 #. [weapon_special_stun]: id=rfc_stun
 msgid ""
@@ -1491,11 +1549,11 @@ msgstr ""
 
 #. [floating_text]
 msgid "female^stunned"
-msgstr ""
+msgstr "stupefacta"
 
 #. [floating_text]
 msgid "stunned"
-msgstr ""
+msgstr "stupefactus"
 
 #. [trait]: id=rfc_bragart
 msgid "braggart"
@@ -1512,3 +1570,8 @@ msgstr ""
 #. [trait]: id=rfc_warily
 msgid "better movement and defense in caves"
 msgstr ""
+
+#
+# File: Mystery_Campaign/scenarios/mystery_scenario.cfg, line: 69
+msgid "Allies"
+msgstr "Socii"

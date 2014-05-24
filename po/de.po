@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Return from Captivity\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-03 13:57+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: trewe <sjrs456@yahoo.fr>\n"
@@ -10,7 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
 msgid "RfC"
@@ -59,12 +60,12 @@ msgid "(Expert level, 11 scenarios)"
 msgstr "(Einstufung: Schwierig, 11 Szenarien)"
 
 #. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
-msgid "Lord"
-msgstr "Fürst"
-
-#. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
 msgid "(Normal)"
 msgstr "(Normal)"
+
+#. [campaign]: id=MP_Campaign_Return_from_Captivity, type=mp
+msgid "Lord"
+msgstr "Fürst"
 
 #. [about]
 msgid "Creator and Original Designer"
@@ -79,9 +80,8 @@ msgid "Campaign Maintenance"
 msgstr "Kampagnenbetreuung"
 
 #. [multiplayer]: id=RfC_01_The_Prison, (type=Giant Spider, id=Tallia}, id=Sirius}, type=Dwarvish Steelclad, type=Elvish Hero
-#, fuzzy
 msgid "RfC — Escaping from the Prison"
-msgstr "RfC — Die Zitadelle"
+msgstr "RfC — Die Flucht aus der Zitadelle"
 
 # File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 6
 # File: Return_from_Captivity/_main.cfg, line: 28
@@ -106,70 +106,6 @@ msgstr ""
 "niemand es geschafft hat, lebendig zu verlassen. Die Gefangenen sind vor "
 "allem Elfen, Trolle und Menschen, die zu gefährlich für die Gesellschaft "
 "sind."
-
-#
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 39
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 65
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 39
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 63
-# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 33
-# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 56
-# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 42
-# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 64
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 26
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 49
-# File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 26
-# File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 49
-# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 228
-# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 252
-# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 26
-# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 50
-# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 27
-# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 51
-# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 29
-# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 53
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 37
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 62
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 41
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 70
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 38
-# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 65
-# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 32
-# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 55
-# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 41
-# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 63
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 25
-# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 48
-# File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 25
-# File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 48
-# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 214
-# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 240
-# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 25
-# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 49
-# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 33
-# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 57
-# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 28
-# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 53
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 36
-# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 61
-#. [side]: id=P1, type=Elvish Captain
-#. [side]: id=P2, type=Dwarvish Steelclad
-msgid "Allies"
-msgstr "Verbündete"
-
-#
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 40
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 42
-#. [side]: id=P1, type=Elvish Captain
-msgid "Player1"
-msgstr "Player1"
-
-#
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 63
-# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 68
-#. [side]: id=P2, type=Dwarvish Steelclad
-msgid "Player2"
-msgstr "Player2"
 
 #
 # File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 90
@@ -628,9 +564,8 @@ msgstr "Ich habe eine Geheimtür gefunden!"
 # File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 158
 # File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 160
 #. [objective]: condition=win
-#, fuzzy
 msgid "Resist until the end of turns."
-msgstr "Unsere Heimat befindet sich am Ende des Tunnels."
+msgstr "Haltet die Stellung bis zum Ablauf aller Runden."
 
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 383
 # File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 430
@@ -659,7 +594,7 @@ msgstr ""
 #. [message]
 msgid ""
 "If those stupid trolls want that we capture those fled prisoners, then they "
-"have to pay more!"
+"have to pay more."
 msgstr ""
 
 #. [message]
@@ -819,7 +754,7 @@ msgstr ""
 #
 # File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 247
 # File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 252
-#. [message]: type=Mermaid Initiate
+#. [message]: role=speaker$unit.side|$x1|$y1
 msgid "Thank you for rescuing us! We will help you fight against the undeads!"
 msgstr ""
 "Vielen Dank für unsere Rettung! Wir helfen euch, gegen die Untote zu kämpfen!"
@@ -842,16 +777,6 @@ msgid "You can now recruit mermen"
 msgstr "Sie können nun Meerleute rekrutieren"
 
 #
-# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 313
-# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 318
-#. [message]: type=Merman Hunter
-msgid ""
-"Thank you for letting us free! Now we join to fight on the dwarves' side!"
-msgstr ""
-"Vielen Dank, dass ihr uns befreit habt! Jetzt schließen wir uns den Zwergen "
-"an um zu kämpfen!"
-
-#
 # File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 349
 # File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 354
 #. [message]
@@ -868,7 +793,6 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 514
 # File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 463
 #. [message]
-#, fuzzy
 msgid "Help, I’m drowning!"
 msgstr "Hilfe, ich ertrinke!"
 
@@ -1489,7 +1413,6 @@ msgstr ""
 # File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 536
 # File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 552
 #. [message]: role=side2_messager
-#, fuzzy
 msgid ""
 "Then use the magic pearls please. The pearls help you detect the invisible "
 "enemy from distance. Each pearl is enchanted to scan its surrounding area "
@@ -1502,13 +1425,15 @@ msgid ""
 "\n"
 "Finding the invisible undeads is much easier if you use the pearls."
 msgstr ""
-"Dann benutzt diese magischen Perlen, bitte. Die Perlen helfen euch den "
-"unsichtbaren Feind aus der Distanz zu erkennen. Wenn die Farbe der Perle "
-"grün ist, dann gibt es kein Feind in der Nähe. Wenn die Perle rot ist, dann "
-"ist der Feind direkt neben euch. Das Bild zeigt die Farbe der Perle und dem "
-"Abstand des Gegners. \n"
-"Das Finden der unsichtbare Untote ist viel einfacher, wenn Sie die Perlen "
-"verwenden."
+"Dann benutzt bitte diese magischen Perlen. Sie helfen euch den unsichtbaren "
+"Feind aus der Distanz zu erkennen.\n"
+"Wenn die Farbe der Perle grün ist, dann gibt es keinen Feind in der Nähe. "
+"Wenn die Perle rot ist, dann ist der Feind direkt neben euch.\n"
+"\n"
+"Das Bild zeigt die Farbe der Perle und dem Abstand des Gegners. \n"
+"\n"
+"Das Finden der unsichtbare Untote wird viel einfacher, wenn ihr die Perlen "
+"verwendet."
 
 #
 # File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 542
@@ -2842,13 +2767,14 @@ msgstr ""
 msgid "stun"
 msgstr "Lähmung"
 
-# File: Return_from_Captivity/utils/abilities.cfg, line: 99
-# File: Return_from_Captivity/utils/abilities.cfg, line: 100
 #. [weapon_special_stun]: id=rfc_stun
 msgid ""
 "This attack hits so hard that the opponent is dazed and can no longer "
 "enforce a zone of control. The effect wears off on the opponent’s next turn."
 msgstr ""
+"Dieser Angriff betäubt das Opfer, so dass keine Kontrollzone "
+"aufrechterhalten wird. Dieser Effekt wirkt nur bis zur nächsten Runde des "
+"Opfers."
 
 # File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 798
 # File: Return_from_Captivity/utils/abilities.cfg, line: 181
@@ -2882,3 +2808,51 @@ msgstr "vorsichtig"
 #. [trait]: id=rfc_warily
 msgid "better movement and defense in caves"
 msgstr ""
+
+#
+# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 39
+# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 65
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 39
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 63
+# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 33
+# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 56
+# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 42
+# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 64
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 26
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 49
+# File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 26
+# File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 49
+# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 228
+# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 252
+# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 26
+# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 50
+# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 27
+# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 51
+# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 29
+# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 53
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 37
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 62
+# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 41
+# File: Return_from_Captivity/scenarios/01_The_Prison.cfg, line: 70
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 38
+# File: Return_from_Captivity/scenarios/02_The_Valley_of_the_Fear.cfg, line: 65
+# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 32
+# File: Return_from_Captivity/scenarios/03_Leaving_the_Island.cfg, line: 55
+# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 41
+# File: Return_from_Captivity/scenarios/04_Save_the_Forest.cfg, line: 63
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 25
+# File: Return_from_Captivity/scenarios/05_The_Land_of_the_Dragons.cfg, line: 48
+# File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 25
+# File: Return_from_Captivity/scenarios/06_The_Frozen_River.cfg, line: 48
+# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 214
+# File: Return_from_Captivity/scenarios/07_The_Invisible_Legion.cfg, line: 240
+# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 25
+# File: Return_from_Captivity/scenarios/08_The_Labyrinth.cfg, line: 49
+# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 33
+# File: Return_from_Captivity/scenarios/09_Open_Sesame.cfg, line: 57
+# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 28
+# File: Return_from_Captivity/scenarios/10_The_Tunnel.cfg, line: 53
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 36
+# File: Return_from_Captivity/scenarios/11_Returning_to_Home.cfg, line: 61
+msgid "Allies"
+msgstr "Verbündete"
