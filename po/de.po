@@ -1982,7 +1982,7 @@ msgstr "Unsere Heimat befindet sich am Ende des Tunnels."
 #. [message]
 #: scenarios/10_The_Tunnel.cfg:126
 msgid ""
-"Hard to beleive that we reached this place. Hurry elf, I'd like to have a drink "
+"Hard to believe that we reached this place. Hurry elf, I'd like to have a drink "
 "with my fellows tonight!"
 msgstr ""
 "Kaum zu glauben, dass wir diesen Ort erreicht haben. Beeile dich Elf, ich würde "
