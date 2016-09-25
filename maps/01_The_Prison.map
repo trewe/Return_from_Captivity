@@ -1,6 +1,3 @@
-border_size=1
-usage=map
-
 Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Wwg, Wwrg, Ds, Ds, Wwg, Wwg, Uu, Uu^Uf, Xu, Xu
 Xu, Xu, Xu, Xu, Xu, Xu, Xu, Uu, Re, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Rd, Re, Re, Xu, Xu, Re, Re^Es, Xu, Xu, Xu, Xu, Wwg, Wwg, Ds, Ds, Wwg, Wwg, Uu^Uf, Xu, Xu, Xu
 Xu, Xu, Rd, Xu, Xu, Xu, Xu, Xu, Re, Rd, Rd, Rd, Uu, Re, Re, Xu, Ur, Xu, Re, Xu, Xu, Xu, Re, Xu, Xu, Xu, Uu^Em, Uu^Uf, Wwg, Ds^Uf, Ds^Uf, Wwg, Wwg, Uu^Em, Xu, Xu, Xu
@@ -27,6 +24,6 @@ Rp, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Gs^Fp, Xu, Xu, Rr, Xu, Rr, Xu, Rr, Xu, Rr, Xu, X
 Rp, Rp, Rp, Rp, Rp, Rp, Gs, Gg^Efm, Gg^Efm, Gs^Fp, Gs^Fp, Xu, Xu, Xu, Xu, Xu, Rd^Es, Xu, Re, Re, Xu, Rd, Xu, Xu, Uu, Xu, Xu, Uu, Uu, Wwg, Wwg, Xu, Ur, Uu^Em, Uu^Uf, Xu, Xu
 Gg, Gg, Gg, Gs, Gs, Gs, Gs, Gg^Efm, Gg, Gs^Fp, Gs^Fp, Xu, Xu, Xu, Re, Rd, Xu, Rd, Xu, Xu, Rd, Rd, Xu, Xu, Uu, Rd, Rd, Uu, Wwg, Wwg, Wwg, Xu, Uu^Uf, Xu, Xu, Xu, Xu
 Gg, Gg^Fet, Gg, Gs, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Xu, Xu, Re, Xu, Xu, Uu^Em, Uu^Uf, Xu, Xu, Rd, Xu, Re, Re, Dd^Do, Xu, Uu, Uu^Uf, Wwg, Wwg, Wwg, Ur^Es, Xu, Uu, Uu, Xu, Xu
-Gs, Gs, Gs, Gg, Gg^Fet, Gg^Fet, Gg^Fet, Gg, Gg, Gs^Fp, Gs^Fp, Xu, Rd^Es, Rd, Uu, Xu, Uu^Uf, Xu, Uu^Em, Uu^Uf, Rd, Xu, Re, Xu, Uu^Em, Xu, Xu, Chw, Wwg, Wwrg, Wwg, Xu, Uu^Uf, Uu^Em, Xu, Xu, Xu
-Gs, Gs, Gs, Gg^Fet, Gg, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Xu, Xu, Xu, Uu, Xu, Xu, Uu, Uu, Xu, Xu, Rd, Xu, Xu, Xu, Uu^Uf, Xu, 3 Khw, Chw, Wwg, Wwg, Xu, Xu, Xu, Xu, Xu, Xu
+Gs, Gs, Gs, Gg, Gg^Fet, Gg^Fet, Gg^Fet, Gg, Gg, Gs^Fp, Gs^Fp, Xu, Rd^Es, Rd, Uu^Ii, Xu, Uu^Uf, Xu, Uu^Em, Uu^Uf, Rd, Xu, Re, Xu, Uu^Em, Xu, Xu, Chw, Wwg, Wwrg, Wwg, Xu, Uu^Uf, Uu^Em, Xu, Xu, Xu
+Gs, Gs, Gs, Gg^Fet, Gg, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Xu, Xu, Xu, Qxu, Xu, Xu, Uu, Uu, Xu, Xu, Rd, Xu, Xu, Xu, Uu^Uf, Xu, 3 Khw, Chw, Wwg, Wwg, Xu, Xu, Xu, Xu, Xu, Xu
 Gg, Gs, Gs, Gs, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs^Fp, Gs^Fp, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Wwg^Edpp, Wwg, Wwrg, Xu, Xu, Xu, Xu, Xu
