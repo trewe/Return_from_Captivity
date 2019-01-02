@@ -937,7 +937,7 @@ msgstr ""
 #. [message]
 #: Return_from_Captivity/scenarios/10_The_Tunnel.cfg:123
 msgid ""
-"Hard to beleive that we reached this place. Hurry elf, I'd like to have a "
+"Hard to believe that we reached this place. Hurry elf, I'd like to have a "
 "drink with my fellows tonight!"
 msgstr ""
 
