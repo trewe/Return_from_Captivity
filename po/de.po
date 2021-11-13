@@ -2922,7 +2922,7 @@ msgstr ""
 #
 # File: Return_from_Captivity/units/Ant.cfg, line: 5
 # File: Return_from_Captivity/units/Ant.cfg, line: 5
-#. [unit_type]: id=RfC Giant Ant, race=monster
+#. [unit_type]: id=Giant Ant, race=monster
 #: Return_from_Captivity/units/Ant.cfg:5
 msgid "Giant Ant"
 msgstr "Riesenameise"
@@ -2930,7 +2930,7 @@ msgstr "Riesenameise"
 #
 # File: Return_from_Captivity/units/Ant.cfg, line: 20
 # File: Return_from_Captivity/units/Ant.cfg, line: 20
-#. [unit_type]: id=RfC Giant Ant, race=monster
+#. [unit_type]: id=Giant Ant, race=monster
 #: Return_from_Captivity/units/Ant.cfg:20
 msgid ""
 "Giant Ants are common in almost any environment, from caverns deep under the "

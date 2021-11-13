@@ -1738,12 +1738,12 @@ msgid ""
 "and their skills make them in high demand."
 msgstr ""
 
-#. [unit_type]: id=RfC Giant Ant, race=monster
+#. [unit_type]: id=Giant Ant, race=monster
 #: Return_from_Captivity/units/Ant.cfg:5
 msgid "Giant Ant"
 msgstr "Ingens Formica"
 
-#. [unit_type]: id=RfC Giant Ant, race=monster
+#. [unit_type]: id=Giant Ant, race=monster
 #: Return_from_Captivity/units/Ant.cfg:20
 msgid ""
 "Giant Ants are common in almost any environment, from caverns deep under the "
